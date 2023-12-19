@@ -1,0 +1,44 @@
+
+.navbar {
+    background-color: #007bff;
+    
+  }
+  
+  
+  .navbar-nav .nav-link {
+    color: #cfdae5 !important; 
+  }
+  
+  
+  .navbar-nav .nav-item.active .nav-link {
+    color: #007bff;
+    background-color: #0056b3; 
+  }
+  
+  
+  #headerCarousel {
+    margin-top: 20px; 
+    background-color: #007bff; 
+  }
+  
+
+  section {
+    margin-top: 20px; 
+  }
+  
+  
+  .card {
+    margin-bottom: 20px; 
+  }
+  
+ 
+  footer {
+    margin-top: 20px; 
+    background-color: #007bff; 
+    padding: 20px;
+    text-align: center;
+    color: #007bff; 
+  }
+
+
+  
